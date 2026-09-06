@@ -9,4 +9,4 @@ Projeto de missão espacial com fluxo de desenvolvimento em três camadas:
 - **main**: ambiente de produção
 
 ## Tripulantes
-- Anna
+- Anna Vitoria Rocha Dias
